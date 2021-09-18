@@ -14,7 +14,7 @@ Gem::Specification.new do |s|
   s.required_ruby_version = '>= 2.3.1'
 
   s.add_dependency 'fastimage'
-  s.add_dependency 'rubyzip',  '~> 1.1'
+  s.add_dependency 'rubyzip',  '~> 2.0'
 
   s.add_development_dependency 'bundler', '~> 1.13'
   s.add_development_dependency 'rspec', '~> 3.5'
